@@ -1,0 +1,22 @@
+{
+    "name": "fibos_scripts",
+    "version": "1.0.0",
+    "dependencies": {
+      "@tpblock/client": "^0.24.3",
+      "eosjs": "^22.1.0",
+      "eosjs-ecc": "^4.0.7",
+      "@chainsafe/bls": "^7.1.1",
+      "@chainsafe/persistent-merkle-tree": "^0.6.1",
+      "@chainsafe/ssz": "^0.11.1",
+      "@ethereumjs/common": "^3.2.0",
+      "@ethereumjs/tx": "^4.2.0",
+      "@ethereumjs/util": "^9.0.0",
+      "@lodestar/types": "^1.8.0",
+      "bignumber.js": "^8.1.1",
+      "create-hash": "^1.2.0",
+      "ethers": "^6.7.1",
+      "merkle-patricia-tree": "^4.2.4",
+      "rlp": "^3.0.0"
+    }
+  }
+  
